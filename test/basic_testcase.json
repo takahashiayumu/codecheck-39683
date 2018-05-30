@@ -1,0 +1,203 @@
+[
+  {
+    "input": [
+      "3:fizz",
+      "5:buzz",
+      2
+    ],
+    "output": 2
+  },
+  {
+    "input": [
+      "3:fizz",
+      "5:buzz",
+      3
+    ],
+    "output": "fizz"
+  },
+  {
+    "input": [
+      "3:fizz",
+      "5:buzz",
+      4
+    ],
+    "output": 4
+  },
+  {
+    "input": [
+      "3:fizz",
+      "5:buzz",
+      5
+    ],
+    "output": "buzz"
+  },
+  {
+    "input": [
+      "3:fizz",
+      "5:buzz",
+      6
+    ],
+    "output": "fizz"
+  },
+  {
+    "input": [
+      "3:fizz",
+      "5:buzz",
+      7
+    ],
+    "output": 7
+  },
+  {
+    "input": [
+      "3:fizz",
+      "5:buzz",
+      8
+    ],
+    "output": 8
+  },
+  {
+    "input": [
+      "3:fizz",
+      "5:buzz",
+      9
+    ],
+    "output": "fizz"
+  },
+  {
+    "input": [
+      "3:fizz",
+      "5:buzz",
+      10
+    ],
+    "output": "buzz"
+  },
+  {
+    "input": [
+      "3:fizz",
+      "5:buzz",
+      11
+    ],
+    "output": 11
+  },
+  {
+    "input": [
+      "1:一",
+      "2:二",
+      "3:三",
+      "5:四",
+      "18:WhyJapanesePeople?",
+      12
+    ],
+    "output": "三"
+  },
+  {
+    "input": [
+      "1:一",
+      "2:二",
+      "3:三",
+      "5:四",
+      "18:WhyJapanesePeople?",
+      13
+    ],
+    "output": "一"
+  },
+  {
+    "input": [
+      "3:おでん",
+      "5:うどん",
+      14
+    ],
+    "output": 14
+  },
+  {
+    "input": [
+      "3:うでん！",
+      "5:おどん！",
+      15
+    ],
+    "output": "おどん！"
+  },
+  {
+    "input": [
+      "{\"3\":\"Fizz\",\"Buzz\":\"5\"}",
+      "Hello"
+    ],
+    "output": "invalid input"
+  },
+  {
+    "input": [
+      "{\"3.21\":\"Fizz\",\"Buzz\":\"5.67\"}",
+      1.23
+    ],
+    "output": "invalid input"
+  },
+  {
+    "input": [
+      "3:Fizz",
+      "5.67:Buzz",
+      3
+    ],
+    "output": "invalid input"
+  },
+  {
+    "input": [
+      "3:Futomen",
+      "5:Ikemen",
+      5.43
+    ],
+    "output": "invalid input"
+  },
+  {
+    "input": [
+      "2:Hey",
+      "3:You",
+      6
+    ],
+    "output": "You"
+  },
+  {
+    "input": [
+      "2:人生",
+      "3:宇宙",
+      "5:すべての答え",
+      28
+    ],
+    "output": "人生"
+  },
+  {
+    "input": [
+      "2:人生",
+      "3:宇宙",
+      "5:すべての答え",
+      29
+    ],
+    "output": 29
+  },
+  {
+    "input": [
+      "2:人生",
+      "3:宇宙",
+      "5:すべての答え",
+      30
+    ],
+    "output": "すべての答え"
+  },
+  {
+    "input": [
+      "2:人生",
+      "3:宇宙",
+      "5:すべての答え",
+      31
+    ],
+    "output": 31
+  },
+  {
+    "input": [
+      "2:人生",
+      "3:宇宙",
+      "5:すべての答え",
+      32
+    ],
+    "output": "人生"
+  }
+]
